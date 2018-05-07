@@ -183,7 +183,3 @@ def postsToCSV(postList, strNewsID):
     
     return
     
-
-
-bbcNewsID = '228735667216'
-cnnID = '5550296508'
