@@ -8,3 +8,5 @@ No data will be hosted on GitHub, only the code used to analyze the data taken f
 
 Terms and Usage:
 For use only internally by University of Washington, Bothell students and faculty. You need to specify your own Twitter API keys and secrets if you would like to use this information.
+
+For any questions contact Manuel Cruz at macruz36@uw.edu
